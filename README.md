@@ -4,7 +4,9 @@ heritrix 爬虫的简单学习，就是一些基本的配置，并没有太大�
 
 ## 配置Heritrix
 这个东西虽说是配置 很简单的，但是有时候老是出现一些莫名其妙的错误，我们可以参考
-https://www.ibm.com/developerworks/cn/opensource/os-cn-heritrix/这个地址的文章去慢慢的自己搭建，我这个是已经做好的项目
+
+这个地址的文章去慢慢的自己搭建，我这个是已经做好的项目
+https://www.ibm.com/developerworks/cn/opensource/os-cn-heritrix/
 
 
 ##扩展Heritrix
